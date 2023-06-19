@@ -1,9 +1,0 @@
-sdasdasfwfafwaawf
-asdasfawfawfawfawfawf
-const aa = () =>{
-}
-
-aa()
-const bb = () =>{
-  console.log("hello world")
-}
